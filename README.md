@@ -1,20 +1,22 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1f6feb"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=SNEPDOG;FULL+STACK+DEVELOPER;SAMP+DEVELOPER;CYBERSECURITY+ENTHUSIAST" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-238636?style=for-the-badge"/>
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+# 💫 Sobre mim
 
-View your app in AI Studio: https://ai.studio/apps/drive/13ZoooIN8BH7mpruLgyNda-_mHhdgpylM
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```yaml
+Nome: Snepdog
+Área: Full Stack Development
+Foco: SA-MP Systems
+Estudos: Cybersecurity
+Status: Evoluindo constantemente
